@@ -9,5 +9,5 @@ Bot written in R that reads data from <a href="https://github.com/jlomako/hospit
 * updated yml-workflow, still doesn't run on ubuntu because of some error with curl (in renv) 
 * doesn't work on ubuntu with <code>DESCRIPTON</code> either
 * runs every 2nd day at 1:25 pm local time
-* this bot has been replaced by a faster bot that runs on ubuntu and does exactly the same but in python <a href = "https://github.com/jlomako/prophet-bot">prophet-bot</a>
+* this bot has been replaced by a faster bot that runs on ubuntu and does exactly the same but in python, see <a href = "https://github.com/jlomako/prophet-bot">prophet-bot</a>
 * disabled workflow
